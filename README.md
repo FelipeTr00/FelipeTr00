@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Hi, 👋 I'm Felipe Morais!</h1>
+<p align="left">I have a keen interest in finance, data science, data visualization, databases, SQL, and object-oriented programming. Always eager to learn more and expand my knowledge in these areas.</p>
+<h2 align="left">About Me:</h2>
+<p align="left"> 📚 Graduated in Economics, constantly exploring the intersection of finance and technology. 📚 Currently honing my programming skills and working on various projects. 🎲 Fun fact: I’m a chess enthusiast ♞ and enjoy playing the guitar 🎸 in my free time. </p>
+<h2 align="left">Technologies I Work With:</h2>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 20px";/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin-right: 20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" style="margin-right: 20px;"/> 
 
-<!--
-**FelipeTr00/FelipeTr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Contact:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/morais-alves-felipe/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="margin-right: 20px;" />
+  </a>
+  <a href="mailto:morais.alves.felipe@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=morais-alves-felipe&label=Profile%20Views&color=0e75b6&style=flat)
