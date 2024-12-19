@@ -6,7 +6,7 @@
 <div align="left"> 
 <img src="assets/python.svg" height="40" alt="Python" style="margin-right: 20px";/>
 <img src="assets/r.svg" height="40" alt="R" style="margin-right: 20px;"/>
-<img src="assets/powerbi.svg" width="80" alt="Power BI" style="margin-top: 20px;"/>
+<img src="assets/power-bi.svg" height="40" alt="R" style="margin-right: 20px;"/>
 <img src="assets/excel.svg" height="40" alt="Excel" style="margin-right: 20px;"/>
 <img src="assets/sql.svg" height="40" alt="SQL"style="margin-right: 20px;"/>
 <img src="assets/java.svg" height="40" alt="Java" style="margin-right: 20px;"/>
