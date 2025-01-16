@@ -20,10 +20,10 @@
 <h2 align="left">Contact:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/morais-alves-felipe/" target="_blank">
-    <img src="assets/linkedin.svg" height="40" alt="LinkedIn" style="margin-right: 20px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:morais.alves.felipe@gmail.com">
-    <img src="assets/gmail.svg" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
