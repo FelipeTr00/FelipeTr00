@@ -16,17 +16,15 @@
 <img src="assets/bash.svg" height="40" alt="Bash" style="margin-right: 20px;"/> 
 <img src="assets/git.svg" height="40" alt="Git" style="margin-right: 20px;"/> 
 
-
-<h2 align="left">Contact:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/morais-alves-felipe/" target="_blank">
+<h2 align="left" style="text-decoration: none;">Contact:</h2>
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/morais-alves-felipe/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:morais.alves.felipe@gmail.com">
+  <a href="mailto:morais.alves.felipe@gmail.com" style="text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 
 ---
 
