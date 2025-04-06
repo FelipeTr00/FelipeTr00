@@ -1,31 +1,129 @@
-<h1 align="left">Hi, 👋 I'm Felipe Morais!</h1>
-<p align="left">I have a keen interest in finance, data science, data visualization, databases, SQL, and object-oriented programming. Always eager to learn more and expand my knowledge in these areas.</p>
-<h2 align="left">About Me:</h2>
-<p align="left"> 📚 Graduated in Economics, constantly exploring the intersection of finance and technology. 📚 Currently honing my programming skills and working on various projects. 🎲 Fun fact: I’m a chess enthusiast ♞ and enjoy playing the guitar 🎸 in my free time. </p>
-<h2 align="left">Technologies I Work With:</h2>
-<div align="left"> 
-<img src="assets/python.svg" height="40" alt="Python" style="margin-right: 20px";/>
-<img src="assets/r.svg" height="40" alt="R" style="margin-right: 20px;"/>
-<img src="assets/power-bi.svg" height="40" alt="R" style="margin-right: 20px;"/>
-<img src="assets/excel.svg" height="40" alt="Excel" style="margin-right: 20px;"/>
-<img src="assets/sql.svg" height="40" alt="SQL"style="margin-right: 20px;"/>
-<img src="assets/java.svg" height="40" alt="Java" style="margin-right: 20px;"/>
-<img src="assets/node.svg" height="40" alt="NodeJS" style="margin-right: 20px;"/>
-<img src="assets/typescript.svg" height="40" alt="TypeScript" style="margin-right: 20px;"/>
-<img src="assets/linux.svg" height="40" alt="Linux" style="margin-right: 20px;"/>
-<img src="assets/bash.svg" height="40" alt="Bash" style="margin-right: 20px;"/> 
-<img src="assets/git.svg" height="40" alt="Git" style="margin-right: 20px;"/> 
+# 👋 Hi there! I'm Felipe Morais! | Olá! Eu sou o Felipe Morais!
 
-<h2 align="left" style="text-decoration: none;">Contact:</h2>
-<p align="left" style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/morais-alves-felipe/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:morais.alves.felipe@gmail.com" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<p align="center">
+<pre>
+<code>SELECT column_name, data_type, skills, proficience
+FROM information_schema.columns
+WHERE table_name = 'felipe_morais';</code>
+</pre>
 </p>
+
+### en:
+## Graduated in Economics from UNESPAR and currently pursuing a degree in Systems Analysis at Integrado.Enthusiast of *data science*, econometrics, databases (SQL), data visualization (Excel, Power BI), and problem-solving through technology. Always seeking improvement and personal growth.
+
+### pt-br:
+## Graduado em Economia pela UNESPAR e graduando em Análise e Desenvolvimento de Sistemas pelo Integrado. Entusiasta de *data science*, econometria, bancos de dados (SQL), visualização de dados (Excel, Power BI) e resolução de problemas com o uso da tecnologia. Em constante busca por aperfeiçoamento e desenvolvimento pessoal.
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=morais-alves-felipe&label=Profile%20Views&color=0e75b6&style=flat)
+# 🛠️ Technologies I Work With | Tecnologias que Utilizo
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="assets/python.svg" height="40"/><br><strong>Python</strong><br>
+      <ul align="left">
+        <li>RPA</li>
+        <li>Data Science</li>
+        <li>Consumo de APIs</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/r.svg" height="40"/><br><strong>R</strong><br>
+      <ul align="left">
+        <li>Estatística</li>
+        <li>Econometria</li>
+        <li>Modelagem</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/sql.svg" height="40"/><br><strong>SQL</strong><br>
+      <ul align="left">
+        <li>Queries</li>
+        <li>ETL</li>
+        <li>ERD</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="assets/excel.svg" height="40"/><br><strong>Excel</strong><br>
+      <ul align="left">
+        <li>Dashboards</li>
+        <li>Tabelas Dinâmicas</li>
+        <li>Automação VBA</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/power-bi.svg" height="40"/><br><strong>Power BI</strong><br>
+      <ul align="left">
+        <li>Dashboards</li>
+        <li>DAX</li>
+        <li>PowerQuery</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/docker.svg" height="40"/><br><strong>Docker</strong><br>
+      <ul align="left">
+        <li>Containers</li>
+        <li>Ambientes Isolados</li>
+        <li>DevOps</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="assets/node.svg" height="40"/><br><strong>Node.js</strong><br>
+      <ul align="left">
+        <li>APIs</li>
+        <li>Backend</li>
+        <li>Automação</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/typescript.svg" height="40"/><br><strong>TypeScript</strong><br>
+      <ul align="left">
+        <li>Frontend</li>
+        <li>Backend</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/linux.svg" height="40"/><br><strong>Linux</strong><br>
+      <ul align="left">
+        <li>Shell</li>
+        <li>Servidores</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="assets/bash.svg" height="40"/><br><strong>Bash</strong><br>
+      <ul align="left">
+        <li>Scripts</li>
+        <li>Automação</li>
+        <li>Linux</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img src="assets/git.svg" height="40"/><br><strong>Git</strong><br>
+      <ul align="left">
+        <li>Controle de Versão</li>
+        <li>GitHub</li>
+        <li>CI/CD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect | Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morais-alves-felipe/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morais.alves.felipe@gmail.com)
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=morais-alves-felipe&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count"/>
+</p>
