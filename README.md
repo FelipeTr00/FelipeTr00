@@ -9,10 +9,10 @@ WHERE table_name = 'felipe_morais';</code>
 </p>
 
 ### en:
-## Graduated in Economics from UNESPAR and currently pursuing a degree in Systems Analysis at Integrado.Enthusiast of *data science*, econometrics, databases (SQL), data visualization (Excel, Power BI), and problem-solving through technology. Always seeking improvement and personal growth.
+## Graduated in Economics from UNESPAR and currently pursuing a degree in Systems Analysis at Integrado. Interest in *data science*, econometrics, databases (SQL), data visualization (Excel, Power BI), and problem-solving through technology. Always seeking improvement and personal growth.
 
 ### pt-br:
-## Graduado em Economia pela UNESPAR e graduando em Análise e Desenvolvimento de Sistemas pelo Integrado. Entusiasta de *data science*, econometria, bancos de dados (SQL), visualização de dados (Excel, Power BI) e resolução de problemas com o uso da tecnologia. Em constante busca por aperfeiçoamento e desenvolvimento pessoal.
+## Graduado em Economia pela UNESPAR e graduando em Análise e Desenvolvimento de Sistemas pelo Integrado. Interesse nas áreas *data science*, econometria, bancos de dados (SQL), visualização de dados (Excel, Power BI) e resolução de problemas com o uso da tecnologia. Em constante busca por aperfeiçoamento e desenvolvimento pessoal.
 
 ---
 
@@ -25,15 +25,15 @@ WHERE table_name = 'felipe_morais';</code>
       <ul align="left">
         <li>RPA</li>
         <li>Data Science</li>
-        <li>Consumo de APIs</li>
+        <li>API Consumption</li>
       </ul>
     </td>
     <td align="center" width="200">
       <img src="assets/r.svg" height="40"/><br><strong>R</strong><br>
       <ul align="left">
-        <li>Estatística</li>
-        <li>Econometria</li>
-        <li>Modelagem</li>
+        <li>Statistics</li>
+        <li>Econometrics</li>
+        <li>Modeling</li>
       </ul>
     </td>
     <td align="center" width="200">
@@ -50,8 +50,8 @@ WHERE table_name = 'felipe_morais';</code>
       <img src="assets/excel.svg" height="40"/><br><strong>Excel</strong><br>
       <ul align="left">
         <li>Dashboards</li>
-        <li>Tabelas Dinâmicas</li>
-        <li>Automação VBA</li>
+        <li>Pivot Tables</li>
+        <li>VBA Automation</li>
       </ul>
     </td>
     <td align="center" width="200">
@@ -59,14 +59,14 @@ WHERE table_name = 'felipe_morais';</code>
       <ul align="left">
         <li>Dashboards</li>
         <li>DAX</li>
-        <li>PowerQuery</li>
+        <li>Power Query</li>
       </ul>
     </td>
     <td align="center" width="200">
       <img src="assets/docker.svg" height="40"/><br><strong>Docker</strong><br>
       <ul align="left">
         <li>Containers</li>
-        <li>Ambientes Isolados</li>
+        <li>Isolated Environments</li>
         <li>DevOps</li>
       </ul>
     </td>
@@ -77,7 +77,7 @@ WHERE table_name = 'felipe_morais';</code>
       <ul align="left">
         <li>APIs</li>
         <li>Backend</li>
-        <li>Automação</li>
+        <li>Algorithms</li>
       </ul>
     </td>
     <td align="center" width="200">
@@ -91,7 +91,7 @@ WHERE table_name = 'felipe_morais';</code>
       <img src="assets/linux.svg" height="40"/><br><strong>Linux</strong><br>
       <ul align="left">
         <li>Shell</li>
-        <li>Servidores</li>
+        <li>Servers</li>
       </ul>
     </td>
   </tr>
@@ -100,16 +100,15 @@ WHERE table_name = 'felipe_morais';</code>
       <img src="assets/bash.svg" height="40"/><br><strong>Bash</strong><br>
       <ul align="left">
         <li>Scripts</li>
-        <li>Automação</li>
-        <li>Linux</li>
+        <li>Automation</li>
       </ul>
     </td>
     <td align="center" width="200">
       <img src="assets/git.svg" height="40"/><br><strong>Git</strong><br>
       <ul align="left">
-        <li>Controle de Versão</li>
+        <li>Git Bash</li>
+        <li>Version Control</li>
         <li>GitHub</li>
-        <li>CI/CD</li>
       </ul>
     </td>
   </tr>
