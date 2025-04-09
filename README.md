@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Felipe Morais! | Olá! Eu sou o Felipe Morais!
+<h1 align="center"> 👋 Hi there! I'm Felipe Morais! | Olá! Eu sou o Felipe Morais! </h1>
 
 <p align="center">
 <pre>
@@ -16,11 +16,11 @@ WHERE table_name = 'felipe_morais';</code>
 
 ---
 
-# 🛠️ Technologies I Work With | Tecnologias que Utilizo
+<h1 align="center"> 🛠️ Technologies I Work With | Tecnologias que Utilizo </h1>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <img src="assets/python.svg" height="40"/><br><strong>Python</strong><br>
       <ul align="left">
         <li>RPA</li>
@@ -44,6 +44,14 @@ WHERE table_name = 'felipe_morais';</code>
         <li>ERD</li>
       </ul>
     </td>
+    <td align="center" width="200">
+      <img src="assets/docker.svg" height="40"/><br><strong>Docker</strong><br>
+      <ul align="left">
+        <li>Containers</li>
+        <li>Isolated Environments</li>
+        <li>DevOps</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td align="center" width="200">
@@ -63,16 +71,6 @@ WHERE table_name = 'felipe_morais';</code>
       </ul>
     </td>
     <td align="center" width="200">
-      <img src="assets/docker.svg" height="40"/><br><strong>Docker</strong><br>
-      <ul align="left">
-        <li>Containers</li>
-        <li>Isolated Environments</li>
-        <li>DevOps</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <img src="assets/node.svg" height="40"/><br><strong>Node.js</strong><br>
       <ul align="left">
         <li>APIs</li>
@@ -87,6 +85,8 @@ WHERE table_name = 'felipe_morais';</code>
         <li>Backend</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200">
       <img src="assets/linux.svg" height="40"/><br><strong>Linux</strong><br>
       <ul align="left">
@@ -94,8 +94,6 @@ WHERE table_name = 'felipe_morais';</code>
         <li>Servers</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
       <img src="assets/bash.svg" height="40"/><br><strong>Bash</strong><br>
       <ul align="left">
@@ -116,13 +114,25 @@ WHERE table_name = 'felipe_morais';</code>
 
 ---
 
-## 📫 Let's Connect | Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morais-alves-felipe/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morais.alves.felipe@gmail.com)
+<table width="100%" align="center">
+  <tr>
+    <td align="right">
+      <a href="mailto:morais.alves.felipe@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="assets/gmail.svg" alt="Gmail" height="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/morais-alves-felipe/" target="_blank" rel="noopener noreferrer">
+        <img src="assets/linkedin.svg" alt="LinkedIn" height="80" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=morais-alves-felipe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td>
+  
+  </tr>
+</table>
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=morais-alves-felipe&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count"/>
-</p>
+
